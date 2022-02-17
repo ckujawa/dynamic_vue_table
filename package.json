@@ -18,6 +18,8 @@
     "vue-scrollbar-simple": "0.0.10"
   },
   "devDependencies": {
+    "@vue/server-test-utils": "^1.3.0",
+    "@vue/test-utils": "^1.3.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-plugin-component": "^1.1.1",
@@ -38,6 +40,7 @@
     "file-loader": "^1.1.11",
     "file-saver": "^2.0.2",
     "html-webpack-plugin": "^3.2.0",
+    "jest": "^27.5.1",
     "lodash.clonedeep": "^4.5.0",
     "mini-css-extract-plugin": "0.4.0",
     "multispinner": "^0.2.1",
@@ -54,7 +57,7 @@
     "vue-loader": "^15.6.2",
     "vue-msgs": "^1.0.6",
     "vue-style-loader": "^4.1.0",
-    "vue-template-compiler": "^2.5.16",
+    "vue-template-compiler": "^2.6.14",
     "webpack": "^4.29.4",
     "webpack-cli": "^3.0.8",
     "webpack-dev-server": "^3.1.4",
